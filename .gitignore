@@ -1,0 +1,7 @@
+.vs/*
+SignalRWebPack/node_modules
+SignalRWebPack/bin
+SignalRWebPack/obj
+SignalRWebPack/Properties
+SignalRWebPack.Core/bin
+SignalRWebPack.Core/obj
