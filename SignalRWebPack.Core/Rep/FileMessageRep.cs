@@ -11,6 +11,7 @@ namespace SignalRWebPack.Core.Rep
         readonly string fileName;
         readonly MemoryMessageRep memoryMessageRep;
         private object lockObj = new object();
+
         public FileMessageRep(string fileName)
         {
             this.memoryMessageRep = new MemoryMessageRep();
